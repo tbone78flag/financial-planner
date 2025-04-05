@@ -35,7 +35,7 @@ This application provides a clean, interactive interface for users to log in, ma
 ## 🛠 Tech Stack
 
 - **Java 17**
-- **JavaFX** or Swing (whichever you used)
+- **Swing**
 - **File I/O** for local storage
 
 ---
